@@ -9,7 +9,7 @@ Hi there 👋
 <br><br>
 
 <h1 align="center" style="margin=50px">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Brush Script MT&size=68&center=true&vCenter=true&width=700&height=80&color=f85493&duration=4000&lines=I'm+Manshi!;+A+full-stack+software+engineer;+Passionate+about+building;+Beautiful,+functional,+and;+User-centric+web+applications." />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Brush Script MT&size=68&center=true&vCenter=true&width=700&height=80&color=f85493&duration=4000&lines=I'm+Manshi!;+A+full-stack+software+engineer;+Passionate+about+building;+Beautiful,+functional,+and;+User-centric+web+applications.;" />
 </h1>
 
 <div align="center">
