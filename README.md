@@ -6,10 +6,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Manshi-Singh547075/count.svg" alt="Visitor Count" />
-</div>
-
 ---
 
 ## 👩‍💻 About Me
