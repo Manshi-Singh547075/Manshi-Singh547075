@@ -20,6 +20,7 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg
+          theme: github-dark
 
       - name: Push SVG to output branch
         uses: peaceiris/actions-gh-pages@v3
