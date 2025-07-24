@@ -54,6 +54,13 @@
 
 ---
 
+## 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Manshi-Singh547075/Manshi-Singh547075/output/github-snake.svg" />
+  </picture>
+</div>
 
 ---
 
